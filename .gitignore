@@ -3,3 +3,4 @@
 *.xlsx
 *.parquet
 anaconda_projects
+python\.ipynb_checkpoints
