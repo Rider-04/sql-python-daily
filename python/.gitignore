@@ -1,0 +1,6 @@
+*.csv
+*.zip
+*.xlsx
+*.parquet
+anaconda_projects
+.ipynb_checkpoints
